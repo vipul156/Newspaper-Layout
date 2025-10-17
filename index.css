@@ -133,6 +133,7 @@ img:hover {
       /* follow instructions for section and write your code here. */
       column-rule: 1px solid #2b2b2b;
       column-count: 2;
+      column-gap: 1.5em;
   }
 
   h1 {
@@ -175,5 +176,6 @@ img:hover {
   /* large screen styles */
   section{
     column-count: 3;
+    column-gap: 2em;
   }
 }
